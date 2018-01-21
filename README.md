@@ -1,4 +1,5 @@
-# DataViz
+<strong> Data Visualization:</strong>
+-----------------
 ## Unit Chart
 ### I- Définitions et concept:
 Un diagramme est une représentation visuelle simplifiée et structurée des concepts, des idées, des constructions, des relations, des données statistiques, de l'anatomie etc. employé dans tous les aspects des activités humaines pour visualiser et éclaircir la matière. Un diagramme permet aussi de décrire des phénomènes, de mettre en évidence des corrélations en certains facteurs ou de représenter des parties d’un ensemble.
@@ -37,10 +38,10 @@ La forme la plus simple d'un diagramme unitaire affiche une seule ligne ou colon
     </td>
   </tr>
 </table>
-Compte tenu de la facilité d'utilisation, les cartes unitaires à une dimension en valent-elles la peine? Nous pouvons les lire en lisant les graphiques à barres, avec une différence mineure: la segmentation des valeurs en unités nous incite à ralentir et à compter, contrairement à la tâche plus simple et plus rapide de comparer leurs hauteurs globales et de décoder leurs valeurs. à une échelle quantitative, qui manque. Pas un gros problème, certains pourraient argumenter, mais significatif assez pour décourager leur utilisation lorsque de meilleurs moyens sont disponibles. Cet exemple illustre la pratique courante consistant à inclure des unités partielles - dans ce cas, des rectangles de moins de hauteur qu'une unité complète - pour représenter des quantités partielles.
+<p> Compte tenu de la facilité d'utilisation, les cartes unitaires à une dimension en valent-elles la peine? Nous pouvons les lire en lisant les graphiques à barres, avec une différence mineure: la segmentation des valeurs en unités nous incite à ralentir et à compter, contrairement à la tâche plus simple et plus rapide de comparer leurs hauteurs globales et de décoder leurs valeurs. à une échelle quantitative, qui manque. Pas un gros problème, certains pourraient argumenter, mais significatif assez pour décourager leur utilisation lorsque de meilleurs moyens sont disponibles. Cet exemple illustre la pratique courante consistant à inclure des unités partielles - dans ce cas, des rectangles de moins de hauteur qu'une unité complète - pour représenter des quantités partielles.
 Par exemple, dans ce graphique, les populations d'états ont été arrondies au million de personnes hauteurs de ces rectangles supérieurs qui représentent moins de cinq millions de personnes.
 Comme Harris l'a souligné dans sa définition, les graphiques unitaires sont de deux types: ceux qui utilisent des formes géométriques
-tels que des rectangles ou des cercles, et ceux qui utilisent des formes irrégulières telles que des images ou des icônes. Voici un exemple de ce dernier:
+tels que des rectangles ou des cercles, et ceux qui utilisent des formes irrégulières telles que des images ou des icônes. Voici un exemple de ce dernier:</p>
 
 <table border="0">
   <tr>
@@ -51,7 +52,25 @@ tels que des rectangles ou des cercles, et ceux qui utilisent des formes irrégu
 </table>
 
 Cette icône simple qui représente une ou plusieurs personnes (dans ce cas 1 million) est un élément de base de l'infographie. Bien que, en utilisant cette icône familière, le lecteur soit instantanément compris dans le fait que les gens sont l'objet de l'affichage, les valeurs ne peuvent pas être discernées sans compter les icônes ou plus simplement en lisant les nombres (par exemple, 54 millions non assurés). Parce que nous ne pouvons pas comparer au préalable des nombres dépassant trois des quatre objets au maximum, nous sommes obligés d'abandonner la perception visuelle rapide et de compter sur des méthodes plus lentes de discernement-comptage ou de lecture.
+### I- Champ d'utilisation d'un diagramme d'unités:
+-----------------
+Les diagrammes unitaires sont parfois utilisés pour raconter des histoires complexes qui pourraient être plus simplement et efficacement racontées en utilisant une variété de types de graphiques. Remarquez combien il est difficile et long de digérer l'histoire suivante sur les sans-abri.
 
+<table border="0">
+  <tr>
+    <td>
+     <img src="exemple4.JPG" "align:"center">
+ </td>
+  </tr>
+</table>
+
+Une simple refonte de cette infographie raconte l'histoire en termes beaucoup plus faciles à lire et à digérer, comme le montre la page suivante.
+
+<ol>
+<li>Une puce</li>
+<li>Une autre puce</li>
+<li>Et encore une autre puce !</li>
+</ol>
 
 
 
