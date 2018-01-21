@@ -13,7 +13,7 @@ Selon <b> Robert L. Harris </b> dans l'information graphique: Une référence il
 <table border="0">
   <tr>
     <td>
-      <img src="exemple1.jgp" "align:"center">
+      <img src="exemple1.jpg" "align:"center">
     </td>
   </tr>
 </table>
