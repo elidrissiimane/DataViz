@@ -73,14 +73,16 @@ Parfois, les diagrammes unitaires sont utilisés pour afficher les distributions
   </tr>
 </table>
 La première chose que vous avez probablement remarqué à propos de cette infographie est la colonne des icônes inutiles qui apparaissent à droite des étiquettes (Créateurs, Critiques, etc.). Les images et les diagrammes peuvent ajouter de la valeur à une infographie, mais ces icônes ne le sont pas. Le plus gros problème, cependant, est dû au fait que les lignes diffèrent souvent par le nombre d'unités affichées, parfois positionnées à gauche (par exemple, les jeunes adolescents inactifs, avec quatre unités), parfois vers la droite (par exemple, Génération inactive Y, avec une unité), et parfois même divisé entre la gauche et la droite avec un écart au milieu (par exemple, Jeunesse inactive, avec huit unités), ce qui rend difficile à lire comme nous lirions un histogramme réel . Il présente également des modèles qui n'existent pas réellement lorsque nous essayons de lire ceci comme nous le ferions pour un histogramme normal. Par exemple, la disposition suivante des unités nous amène à associer des valeurs entre les intervalles Jeunes adolescents et Jeunes de quatre unités et des valeurs entre les intervalles Jeunes et Génération Y qui sont trois unités de haut (soulignés en noir) -séduisant nos yeux pour voir un modèle qui est erroné.
-
-
-
-
+<table border="0">
+  <tr>
+    <td>
+      <img src="exemple6.JPG" "align:"center">
+    </td>
+  </tr>
+</table>
 
 ## Sources:
 <ol>
 <li>https://www.perceptualedge.com/articles/visual_business_intelligence/unit_charts_are_for_kids.pdf</li>
-<li>Une autre puce</li>
-<li>Et encore une autre puce !</li>
+<li>https://en.wikipedia.org/wiki/Chart</li>
 </ol>
