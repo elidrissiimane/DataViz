@@ -1,17 +1,12 @@
 # DataViz
 ## Unit Chart
-<table border="0">
-  <tr>
-    <td>
-      <img src="LampFlowchart.svg" style="width: 100px;">
-    </td>
-  </tr>
-</table>
-# Work on Flow Chart
-## I- Définition
-Le diagramme de flux est un moyen pour présenter visuellement le flux de données à travers un système de traitement d'informations, les opérations effectuées dans le système et la séquence dans laquelle elles sont effectuées. Dans cette leçon, nous allons nous intéresser au diagramme de flux de programme, qui décrit ce que les opérations (et dans quel ordre) sont nécessaires pour résoudre un problème donné.
+## I- Définition:
+Un diagramme est une représentation visuelle simplifiée et structurée des concepts, des idées, des constructions, des relations, des données statistiques, de l'anatomie etc. employé dans tous les aspects des activités humaines pour visualiser et éclaircir la matière. Un diagramme permet aussi de décrire des phénomènes, de mettre en évidence des corrélations en certains facteurs ou de représenter des parties d’un ensemble.
 
-<b>Le flux </b> est une représentation d'une série d'opérations logiques pour satisfaire des exigences spécifiques. Un flux existe naturellement. Il peut être irrégulière, non fixée ou plein de problèmes. Pour cette raison, il peut apparemment être absents dans certaines situations. Dernièrement, les membres d'une équipe ont été chargés d'enquêter sur le déroulement d'un processus d'affaires, et on m'a dit qu'il y avait des lacunes dans le flux. La réponse de la personne qui était en charge de l'équipe était qu'aucun flux a été montré dans le cadre du processus de l'entreprise. Comme une question de fait, il est impossible pour une entreprise, réalisée sans un flux. Il peut être un écoulement sous une forme non fixée, ou peut-être la personne elle-même qui vous étudié n'a pas une idée claire sur le flux.
+Selon <b> Robert L. Harris </b> dans l'information graphique: Une référence illustrée complète, un diagramme d'unité est défini comme suit:
+
+<b> Un diagramme </b> utilisé pour communiquer des quantités de choses en faisant le nombre de symboles sur la carte proportionnelle à la quantité de choses représentées. Par exemple, si un symbole représente dix voitures et cinq symboles sont montrés, le spectateur mentalement multiplie dix fois cinq et conclut que le groupe de symboles représentait 50 voitures réelles. Formes géométriques simples ou formes irrégulières telles que les images et les icônes sont généralement utilisées. Chacun fournit essentiellement le même degré de précision. Quand les symboles sont des formes géométriques, le graphique est parfois appelé un tableau noir. Quand des images, des croquis, ou des icônes sont utilisées, le tableau est souvent appelé un tableau d'unité picturale. Les cartes unitaires sont utilisées presque exclusivement dans des présentations et des publications telles que des journaux, des magazines et des publicités.
+
 
 <b>Le diagramme</b> est une présentation ou une description écrite de certaines parties régulières et ordinaires de la circulation. Un graphique est propice à la communication et de la concentration et offre des références pour la réingénierie des processus.
 
