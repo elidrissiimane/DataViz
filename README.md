@@ -56,6 +56,7 @@ Cette icône simple qui représente une ou plusieurs personnes (dans ce cas 1 mi
 
 
 ## Sources:
+-----------------
 [1] - https://www.perceptualedge.com/articles/visual_business_intelligence/unit_charts_are_for_kids.pdf
 
 [2] - 
