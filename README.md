@@ -1,4 +1,5 @@
-# DataViz
+DataViz
+-----------------
 ## Unit Chart
 ### I- Définitions et concept:
 Un diagramme est une représentation visuelle simplifiée et structurée des concepts, des idées, des constructions, des relations, des données statistiques, de l'anatomie etc. employé dans tous les aspects des activités humaines pour visualiser et éclaircir la matière. Un diagramme permet aussi de décrire des phénomènes, de mettre en évidence des corrélations en certains facteurs ou de représenter des parties d’un ensemble.
