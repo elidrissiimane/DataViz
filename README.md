@@ -1,4 +1,4 @@
-DataViz
+# Data Visualization:
 -----------------
 ## Unit Chart
 ### I- Définitions et concept:
@@ -38,10 +38,10 @@ La forme la plus simple d'un diagramme unitaire affiche une seule ligne ou colon
     </td>
   </tr>
 </table>
-Compte tenu de la facilité d'utilisation, les cartes unitaires à une dimension en valent-elles la peine? Nous pouvons les lire en lisant les graphiques à barres, avec une différence mineure: la segmentation des valeurs en unités nous incite à ralentir et à compter, contrairement à la tâche plus simple et plus rapide de comparer leurs hauteurs globales et de décoder leurs valeurs. à une échelle quantitative, qui manque. Pas un gros problème, certains pourraient argumenter, mais significatif assez pour décourager leur utilisation lorsque de meilleurs moyens sont disponibles. Cet exemple illustre la pratique courante consistant à inclure des unités partielles - dans ce cas, des rectangles de moins de hauteur qu'une unité complète - pour représenter des quantités partielles.
+<p> Compte tenu de la facilité d'utilisation, les cartes unitaires à une dimension en valent-elles la peine? Nous pouvons les lire en lisant les graphiques à barres, avec une différence mineure: la segmentation des valeurs en unités nous incite à ralentir et à compter, contrairement à la tâche plus simple et plus rapide de comparer leurs hauteurs globales et de décoder leurs valeurs. à une échelle quantitative, qui manque. Pas un gros problème, certains pourraient argumenter, mais significatif assez pour décourager leur utilisation lorsque de meilleurs moyens sont disponibles. Cet exemple illustre la pratique courante consistant à inclure des unités partielles - dans ce cas, des rectangles de moins de hauteur qu'une unité complète - pour représenter des quantités partielles.
 Par exemple, dans ce graphique, les populations d'états ont été arrondies au million de personnes hauteurs de ces rectangles supérieurs qui représentent moins de cinq millions de personnes.
 Comme Harris l'a souligné dans sa définition, les graphiques unitaires sont de deux types: ceux qui utilisent des formes géométriques
-tels que des rectangles ou des cercles, et ceux qui utilisent des formes irrégulières telles que des images ou des icônes. Voici un exemple de ce dernier:
+tels que des rectangles ou des cercles, et ceux qui utilisent des formes irrégulières telles que des images ou des icônes. Voici un exemple de ce dernier:</p>
 
 <table border="0">
   <tr>
@@ -57,7 +57,6 @@ Cette icône simple qui représente une ou plusieurs personnes (dans ce cas 1 mi
 
 
 ## Sources:
------------------
 [1] - https://www.perceptualedge.com/articles/visual_business_intelligence/unit_charts_are_for_kids.pdf
 
 [2] - 
