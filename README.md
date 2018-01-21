@@ -17,6 +17,16 @@ Selon <b> Robert L. Harris </b> dans l'information graphique: Une référence il
     </td>
   </tr>
 </table>
+<table border="0">
+  <tr>
+    <td>
+Source: E. J. Fox, extrait d'une plus grande infographie intitulée «# 1 Party School», 
+basé sur les données de “The Partnership Campus & Community United
+Against Dangerous Drinking Annual Assessment Report 08-09”
+ </td>
+  </tr>
+</table>
+
 
 ## II- Types de diagramme de flux
 
