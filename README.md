@@ -1,4 +1,4 @@
-# Data Visualization:
+<strong> Data Visualization:</strong>
 -----------------
 ## Unit Chart
 ### I- Définitions et concept:
