@@ -28,6 +28,8 @@ Selon <b> Robert L. Harris </b> dans l'information graphique: Une référence il
 
 Dans l'exemple ci-dessus, une matrice de points 10x10 avec un élément manquant, totalisant 99, a été utilisée pour afficher habitudes de consommation autodéclarées. Chaque point représente 1% sur 100% des élèves. Bien que les chiffres totalisent 100% exactement, le designer a choisi d'ignorer les décimales dans tous les cas sauf "Heavy Drinker", qu'il a arrondi de 6,9% à 7%. Si le concepteur avait arrondi tous les nombres vers le haut ou le bas, selon le cas, le nombre de points aurait totalisé 100.
 
+### I- La forme d'un diagramme d'unités:
+La forme la plus simple d'un diagramme unitaire affiche une seule ligne ou colonne d'unités, plutôt qu'une matrice des deux comme nous l'avons vu dans l'exemple précédent. Comme vous pouvez le voir, un diagramme unidimensionnel est plus simple à lire qu'une version bidimensionnelle.
 
 
 
