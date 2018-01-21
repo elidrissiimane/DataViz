@@ -29,7 +29,7 @@ Selon <b> Robert L. Harris </b> dans l'information graphique: Une référence il
 
 Dans l'exemple ci-dessus, une matrice de points 10x10 avec un élément manquant, totalisant 99, a été utilisée pour afficher habitudes de consommation autodéclarées. Chaque point représente 1% sur 100% des élèves. Bien que les chiffres totalisent 100% exactement, le designer a choisi d'ignorer les décimales dans tous les cas sauf "Heavy Drinker", qu'il a arrondi de 6,9% à 7%. Si le concepteur avait arrondi tous les nombres vers le haut ou le bas, selon le cas, le nombre de points aurait totalisé 100.
 
-### I- La forme d'un diagramme d'unités:
+### II- La forme d'un diagramme d'unités:
 La forme la plus simple d'un diagramme unitaire affiche une seule ligne ou colonne d'unités, plutôt qu'une matrice des deux comme nous l'avons vu dans l'exemple précédent. Comme vous pouvez le voir, un diagramme unidimensionnel est plus simple à lire qu'une version bidimensionnelle.
 <table border="0">
   <tr>
@@ -52,7 +52,7 @@ tels que des rectangles ou des cercles, et ceux qui utilisent des formes irrégu
 </table>
 
 Cette icône simple qui représente une ou plusieurs personnes (dans ce cas 1 million) est un élément de base de l'infographie. Bien que, en utilisant cette icône familière, le lecteur soit instantanément compris dans le fait que les gens sont l'objet de l'affichage, les valeurs ne peuvent pas être discernées sans compter les icônes ou plus simplement en lisant les nombres (par exemple, 54 millions non assurés). Parce que nous ne pouvons pas comparer au préalable des nombres dépassant trois des quatre objets au maximum, nous sommes obligés d'abandonner la perception visuelle rapide et de compter sur des méthodes plus lentes de discernement-comptage ou de lecture.
-### I- Champ d'utilisation d'un diagramme d'unités:
+### III- Champ d'utilisation d'un diagramme d'unités:
 
 Les diagrammes unitaires sont parfois utilisés pour raconter des histoires complexes qui pourraient être plus simplement et efficacement racontées en utilisant une variété de types de graphiques. Remarquez combien il est difficile et long de digérer l'histoire suivante sur les sans-abri.
 
@@ -86,3 +86,6 @@ La première chose que vous avez probablement remarqué à propos de cette infog
 <li>https://www.perceptualedge.com/articles/visual_business_intelligence/unit_charts_are_for_kids.pdf</li>
 <li>https://en.wikipedia.org/wiki/Chart</li>
 </ol>
+
+## Auteur:
+   __EL IDRISSI Imane__
