@@ -1,6 +1,6 @@
 # DataViz
 ## Unit Chart
-## I- Définitions et concept:
+### I- Définitions et concept:
 Un diagramme est une représentation visuelle simplifiée et structurée des concepts, des idées, des constructions, des relations, des données statistiques, de l'anatomie etc. employé dans tous les aspects des activités humaines pour visualiser et éclaircir la matière. Un diagramme permet aussi de décrire des phénomènes, de mettre en évidence des corrélations en certains facteurs ou de représenter des parties d’un ensemble.
 
 Selon <b> Robert L. Harris </b> dans l'information graphique: Une référence illustrée complète, un diagramme d'unité est défini comme suit:
@@ -13,7 +13,7 @@ Selon <b> Robert L. Harris </b> dans l'information graphique: Une référence il
 <table border="0">
   <tr>
     <td>
-      <img src="img/exemple1.jgp" "align:"center">
+      <img src="exemple1.jgp" "align:"center">
     </td>
   </tr>
 </table>
