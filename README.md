@@ -53,6 +53,11 @@ tels que des rectangles ou des cercles, et ceux qui utilisent des formes irrégu
 
 Cette icône simple qui représente une ou plusieurs personnes (dans ce cas 1 million) est un élément de base de l'infographie. Bien que, en utilisant cette icône familière, le lecteur soit instantanément compris dans le fait que les gens sont l'objet de l'affichage, les valeurs ne peuvent pas être discernées sans compter les icônes ou plus simplement en lisant les nombres (par exemple, 54 millions non assurés). Parce que nous ne pouvons pas comparer au préalable des nombres dépassant trois des quatre objets au maximum, nous sommes obligés d'abandonner la perception visuelle rapide et de compter sur des méthodes plus lentes de discernement-comptage ou de lecture.
 
+<ol>
+<li>Une puce</li>
+<li>Une autre puce</li>
+<li>Et encore une autre puce !</li>
+</ol>
 
 
 
