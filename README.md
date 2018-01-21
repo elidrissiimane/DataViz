@@ -52,6 +52,19 @@ tels que des rectangles ou des cercles, et ceux qui utilisent des formes irrégu
 </table>
 
 Cette icône simple qui représente une ou plusieurs personnes (dans ce cas 1 million) est un élément de base de l'infographie. Bien que, en utilisant cette icône familière, le lecteur soit instantanément compris dans le fait que les gens sont l'objet de l'affichage, les valeurs ne peuvent pas être discernées sans compter les icônes ou plus simplement en lisant les nombres (par exemple, 54 millions non assurés). Parce que nous ne pouvons pas comparer au préalable des nombres dépassant trois des quatre objets au maximum, nous sommes obligés d'abandonner la perception visuelle rapide et de compter sur des méthodes plus lentes de discernement-comptage ou de lecture.
+### I- Champ d'utilisation d'un diagramme d'unités:
+-----------------
+Les diagrammes unitaires sont parfois utilisés pour raconter des histoires complexes qui pourraient être plus simplement et efficacement racontées en utilisant une variété de types de graphiques. Remarquez combien il est difficile et long de digérer l'histoire suivante sur les sans-abri.
+
+<table border="0">
+  <tr>
+    <td>
+     <img src="exemple4.JPG" "align:"center">
+ </td>
+  </tr>
+</table>
+
+Une simple refonte de cette infographie raconte l'histoire en termes beaucoup plus faciles à lire et à digérer, comme le montre la page suivante.
 
 <ol>
 <li>Une puce</li>
