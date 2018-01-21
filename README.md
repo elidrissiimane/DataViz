@@ -21,48 +21,20 @@ Selon <b> Robert L. Harris </b> dans l'information graphique: Une référence il
 <table border="0">
   <tr>
     <td>
-Source: E. J. Fox, extrait d'une plus grande infographie intitulée «# 1 Party School», basé sur les données de “The Partnership Campus & Community United Against Dangerous Drinking Annual Assessment Report 08-09”
+    <em> Source:</em> E. J. Fox, extrait d'une plus grande infographie intitulée «# 1 Party School», basé sur les données de “The Partnership Campus & Community United Against Dangerous Drinking Annual Assessment Report 08-09”
  </td>
   </tr>
 </table>
 
-
-## II- Types de diagramme de flux
-
-### II.1- Diagramme de flux détaillé
+Dans l'exemple ci-dessus, une matrice de points 10x10 avec un élément manquant, totalisant 99, a été utilisée pour afficher habitudes de consommation autodéclarées. Chaque point représente 1% sur 100% des élèves. Bien que les chiffres totalisent 100% exactement, le designer a choisi d'ignorer les décimales dans tous les cas sauf "Heavy Drinker", qu'il a arrondi de 6,9% à 7%. Si le concepteur avait arrondi tous les nombres vers le haut ou le bas, selon le cas, le nombre de points aurait totalisé 100.
 
 
-### II.2- Diagramme de flux de déploiement ou en matrice
+### II- Types de diagramme de flux
 
 
 
-## IV- Exemples de diagrammes de flus et commentaires
 
-### IV.1- diagramme de flux fonctionnel croisé
+## Sources:
+[1] - https://www.perceptualedge.com/articles/visual_business_intelligence/unit_charts_are_for_kids.pdf
 
-#### IV.1.1- Analyse de diagramme de flux fonctionnel croisé
-
-
-### IV.2- Diagramme de flux de processus
-
-D
-
-#### IV.2.1- Exemple d'un diagramme de flux de processus
-
-### IV.3- Diagramme de flux de données
-
-
-#### IV.3.1- Exemples de diagramme de flux de données
-
-
-#### IV.3.2- Historique pour ce diagramme
-
-
-
-#### IV.3.3- Exemple de création d'un diagramme de flux de données
-
-
-## Sources
-[1] - https://www.edrawsoft.com/fr/
-
-[2] - https://fr.wikipedia.org/
+[2] - 
