@@ -81,7 +81,7 @@ La première chose que vous avez probablement remarqué à propos de cette infog
   </tr>
 </table>
 
-## ** Webographie:
+## Webographie:
 <ol>
 <li>https://www.perceptualedge.com/articles/visual_business_intelligence/unit_charts_are_for_kids.pdf</li>
 <li>https://en.wikipedia.org/wiki/Chart</li>
